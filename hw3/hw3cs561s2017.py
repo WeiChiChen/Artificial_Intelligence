@@ -1,6 +1,5 @@
 """
 AI Homework #3: Decision Network
-Author: Wei-Chi Chen (Vic), uscid: 8206528808
 """
 import copy
 import time
