@@ -1,6 +1,6 @@
 """
 AI Homework #1: Adversarial Search - Reversi
-Author: Wei-Chi Chen (Vic), uscid: 8206528808
+Author: Wei-Chi Chen (Vic)
 """
 import copy
 D_F = False  # Debug_Flag
