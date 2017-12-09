@@ -1,6 +1,5 @@
 """
 AI Homework #2: Wedding Seating Arrangement
-Author: Wei-Chi Chen (Vic)
 """
 import copy
 import random
